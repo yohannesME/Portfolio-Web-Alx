@@ -2,7 +2,7 @@
   <nav>
     <div class="box nav_bg">
       <div>
-        <base-button class="logo">TI多€X</base-button>
+        <base-button class="logo">John</base-button>
       </div>
       <div class="links">
         <a
