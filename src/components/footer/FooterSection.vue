@@ -3,7 +3,7 @@
 
         <div class="footer">
             <!-- <h2>Footer</h2> -->
-            <p class="">Designed by <span></span></p>
+            <p class="">Designed by <span>Yohannes Mesganaw</span></p>
             <!-- <p class="heading ">Designed by <span>Tibebe Solomon</span></p> -->
         </div>
 

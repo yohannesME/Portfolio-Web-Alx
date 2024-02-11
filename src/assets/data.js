@@ -69,22 +69,22 @@ exports.other = ["AdobeXD", "Photoshop"];
 exports.socials = [
   {
     num: 1,
-    link: "https://github.com/Tibex88/",
+    link: "https://github.com/yohannesme/",
     icon: "fab fa-github",
   },
   {
     num: 2,
-    link: "https://t.me/tibe_sz",
+    link: "https://t.me/johnat",
     icon: "fab fa-telegram-plane",
   },
   {
     num: 3,
-    link: "https://www.instagram.com/tibex6",
+    link: "https://www.instagram.com/yohannesll",
     icon: "fab fa-instagram",
   },
   {
     num: 4,
-    link: "https://twitter.com/TibeSolomon",
+    link: "https://twitter.com/",
     icon: "fab fa-twitter",
   },
   {

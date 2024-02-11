@@ -6,7 +6,7 @@
     <h2 class="heading" id="contact">Contact <span>Me</span></h2>
     <div>
       <form
-        action="mailto:tibesolomon7@gmail.com"
+        action="mailto:yohannesmesg@gmail.com"
         method="get"
         enctype="text/plain"
       >
